@@ -2,11 +2,4 @@
 #include <cmath>
 double degreemath::sin(double degree)
 {
-// zamiana stopni na radianów --> pi radnianów = 180 stopni 
-// return std::sin(radian); // funkcja biblioteczna z pliku <cmath>
-
-}
-
-// itd  
-
-// do pliku main.cpp nale¿y do³¹czyæ #include biblioteki a w fnkcji main() wywo³aæ utworzone funkcje, ¿eby sprawdziæ dzia³anie.
+MIWNIFHAFIOHAOIFA do pliku main.cpp nale¿y do³¹czyæ #include biblioteki a w fnkcji main() wywo³aæ utworzone funkcje, ¿eby sprawdziæ dzia³anie.
